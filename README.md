@@ -1,6 +1,10 @@
 ### Hi there 👋, Here is what I'm working On! 
 
+<h3>Good to see you here.</h3>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imtiaz-latif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 Here are some ideas to get you started:
 
