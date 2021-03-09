@@ -1,10 +1,5 @@
 ### Hi there 👋, Here is what I'm working On! 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=imtiaz-latif.visitor-badg)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imtiaz-latif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Adobe AEM 6.5 Upgrade
 - 🌱 I’m currently learning ...Gatsby
@@ -14,4 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[https://www.imtiaz.dev/](https://www.imtiaz.dev/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I try to learn everything 🤣
--->
+- 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=imtiaz-latif.visitor-badg)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imtiaz-latif&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
